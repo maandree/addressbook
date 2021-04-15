@@ -1,0 +1,6 @@
+NAME
+	addressbook - A visual address book application
+
+DESCRIPTION
+	addressbook is a visual address book application for the
+	terminal using libcontacts.
